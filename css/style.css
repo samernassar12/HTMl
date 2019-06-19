@@ -1,0 +1,21 @@
+.dropdown-menu {
+    border-top: 2px solid blue;
+    max-width: 300px !important;
+}
+
+.btn-info {
+    background: #1fa2d5 !important;
+    font-weight: normal !important;
+}
+
+.radius-5 {
+    border-radius: 5px;
+}
+
+.bg-01 {
+    background-image: url(../img/bg-01.png)
+}
+
+.dropdown-toggle::after {
+    content: none !important;
+}
